@@ -1,13 +1,13 @@
 {
   "name": "react-merlin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "main": "src/index.js",
   "license": "MIT",
   "homepage": "https://github.com/bshuster-repo/react-merlin#readme",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/bshuster-repo/react-merlin"
+    "type": "git",
+    "url": "https://github.com/bshuster-repo/react-merlin"
   },
   "dependencies": {
     "react": "^16.7.0",
