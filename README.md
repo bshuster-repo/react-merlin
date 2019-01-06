@@ -1,5 +1,7 @@
 # Introduction
 
+![alt react-merlin-icon](public/icon.png)
+
 A `render-props` component to write wizards in React.
 
 ## Prior Art
